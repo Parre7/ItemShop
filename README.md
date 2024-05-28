@@ -1,12 +1,12 @@
 EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
-CID_370_Athena_Commando_M_EvilSuit, 2000
+CID_715_Athena_Commando_F_TwinDark, 1500
+CID_722_Athena_Commando_M_TeriyakiFishAssassin, 1500
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+Pickaxe_ID_179_StarWand, 1200
+Glider_ID_131_SpeedyMidnight, 2000
+EID_MakeItPlantain, 800
+Wrap_240_PlasmaSpectrum, 300
+EID_TemperTantrum, 200
+MusicPack_015_GoodVibes, 200
