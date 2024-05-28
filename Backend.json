@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
+    "itemGrants": ["CID_715_Athena_Commando_F_TwinDark"],
     "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
-    "price": 300
+    "itemGrants": ["Glider_ID_207_InformerMale"],
+    "price": 800
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
+    "itemGrants": ["Pickaxe_ID_179_StarWand"],
     "price": 1200
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_Fresh"],
-    "price": 3500
+    "itemGrants": ["EID_MakeItRainV2"],
+    "price": 1000
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
+    "itemGrants": ["EID_HappyWave"],
+    "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
+    "itemGrants": ["MusicPack_045_Carnaval"],
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
-    "price": 2000
+    "itemGrants": ["CID_715_Athena_Commando_F_TwinDark"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
-    "price": 2000
+    "itemGrants": ["CID_722_Athena_Commando_M_TeriyakiFishAssassin"],
+    "price": 1500
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_KingEagle"],
+    "itemGrants": ["EID_DreamFeet"],
     "price": 0
   }
 }
